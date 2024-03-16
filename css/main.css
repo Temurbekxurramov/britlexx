@@ -1167,13 +1167,11 @@ height: 70px;
 
     padding: 0;
    }
-   .services__btn{
-    
-   }
    .services__button{
     width: 250px;
     height: 100%;
     align-items: center;
+    margin-left: -30px;
    }
    .services__list_btn{
     display: block;
@@ -1196,7 +1194,7 @@ padding: 0;
     font-size: 30px;
    }
    .services__text_btn{
-  
+  margin-left: -30px;
     padding: 0;
     font-size: 20px;
   
