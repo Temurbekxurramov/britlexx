@@ -168,6 +168,7 @@ transition: 0.3s;
     background-color: #FFFFFF;
 }
 .services__btn{
+    margin-left: -30px;
     margin: 0 auto;
     padding: 0;
     width: 100%;
@@ -1165,6 +1166,9 @@ height: 70px;
     width: 250px;
   margin-left: -30px;
     padding: 0;
+   }
+   .services__btn{
+    margin-left: -50px;
    }
    .services__button{
     width: 250px;
