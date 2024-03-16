@@ -1178,11 +1178,12 @@ height: 70px;
    .services__list_btn{
     display: block;
     align-items: center;
-    margin: 0 auto;
+    margin-left: 30px;
     padding: 0;
    }
    .services__container{
 margin: 0 auto;
+padding: 0;
    }
    .services__item_btn{
     align-items: center;
@@ -1198,6 +1199,7 @@ margin: 0 auto;
   
     padding: 0;
     font-size: 20px;
+    margin-left: 30px;
    }
    .services__img{
     width: 250px;
