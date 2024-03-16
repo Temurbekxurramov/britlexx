@@ -1161,10 +1161,12 @@ height: 70px;
     margin: 0 auto;
     padding: 0;
    }
+   .services__box{
+    margin-left: -60px;
+   }
    .services__text{
     margin-right: auto;
     width: 250px;
-    margin-left: -30px;
 
     padding: 0;
    }
@@ -1195,7 +1197,7 @@ padding: 0;
     font-size: 30px;
    }
    .services__text_btn{
-  
+  margin-left: -60px;
     padding: 0;
     font-size: 20px;
   
