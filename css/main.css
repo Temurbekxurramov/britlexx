@@ -1181,18 +1181,21 @@ height: 70px;
     margin: 0 auto;
     padding: 0;
    }
+   .services__container{
+    margin-left: -50px;
+   }
    .services__item_btn{
     align-items: center;
     margin: 0 auto;
     padding: 0;
    }
    .services__title_btn{
-    margin-left: -110px;
+
     padding: 10px 0px;
     font-size: 30px;
    }
    .services__text_btn{
-    margin-left: -110px;
+  
     padding: 0;
     font-size: 20px;
    }
