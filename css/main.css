@@ -1171,12 +1171,12 @@ height: 70px;
     width: 250px;
     height: 100%;
     align-items: center;
-    margin-left: -30px;
+   
    }
    .services__list_btn{
     display: block;
     align-items: center;
-
+margin-left: -60px;
     padding: 0;
    }
    .services__container{
@@ -1194,7 +1194,7 @@ padding: 0;
     font-size: 30px;
    }
    .services__text_btn{
-  margin-left: -30px;
+  margin-left: -60px;
     padding: 0;
     font-size: 20px;
   
