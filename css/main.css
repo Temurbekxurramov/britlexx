@@ -1177,10 +1177,8 @@ height: 70px;
    
    }
    .services__list_btn{
-    display: block;
-    align-items: center;
-margin-left: -60px;
-    padding: 0;
+   text-align: center;
+   display: block;
    }
    .services__container{
 margin: 0 auto;
